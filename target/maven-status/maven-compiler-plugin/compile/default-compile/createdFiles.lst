@@ -1,0 +1,7 @@
+com\omkar\mysqltocsv\batch\DBWriter.class
+com\omkar\mysqltocsv\repository\UserRepository.class
+com\omkar\mysqltocsv\controller\LoadController.class
+com\omkar\mysqltocsv\batch\Processor.class
+com\omkar\mysqltocsv\config\SpringBatchConfig.class
+com\omkar\mysqltocsv\SpringBatchMySqlToCSVApplication.class
+com\omkar\mysqltocsv\model\User.class
